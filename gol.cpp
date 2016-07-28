@@ -1,4 +1,3 @@
-//Developed by Daniel Volya
 #include<SFML/Graphics.hpp>
 #include<SFML/System.hpp>
 #include <SFML/Audio.hpp>
